@@ -1,0 +1,19 @@
+.card{
+
+    display: inline-block;
+  
+    width:30%;
+  
+    margin: 3px;
+  
+    padding: 3px;
+  
+    border: 2px solid lightblue;
+  
+    box-shadow: 2px 2px 2px skyblue;
+  
+    text-align: center;
+  
+    vertical-align: top;
+  
+   }

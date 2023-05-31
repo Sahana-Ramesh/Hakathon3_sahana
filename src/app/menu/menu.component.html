@@ -1,0 +1,15 @@
+<div class="container" *ngFor="let data of HotelList">
+<div class="card">
+    <div>
+        <img [src]="data.image" class="rounded-circle img-fluid"/>
+    </div>
+    <p>{{data.itemName}}</p>
+    <p>{{data.price}}</p>
+    <div>
+        <button>Add</button>
+    </div>
+</div>
+<div>
+
+</div>
+</div>
